@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# Eivind Mikkelsen <eivind@loom.no>
+# 2014-11-14
+
 import code, sys
 
 from openidm import Client

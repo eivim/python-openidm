@@ -1,3 +1,6 @@
+# Eivind Mikkelsen <eivind@loom.no>
+# 2014-11-14
+
 import json, copy
 
 class ClientError(Exception):
